@@ -13,7 +13,7 @@ Este repositório contém códigos e bibliotecas para automação e controle de 
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 ```
 5. Vá em: `Ferramentas > Placa > Gerenciador de Placas`.  
-6. Procure por **ESP32** e instale.
+6. Procure por **ESP32** e instale: "Arduino ESP32 Boards" por Arduino e "esp32" por Espressif Systems.
 
 ---
 
